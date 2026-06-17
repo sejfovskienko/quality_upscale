@@ -1,0 +1,6 @@
+epoch,batch,phase,generator_total_loss,pixel_loss,perceptual_loss,adversarial_loss,discriminator_loss,real_score,fake_score,psnr,ssim
+0,0,pretrain,0.335707,0.335707,0.0,0.0,0.0,0.0,0.0,7.8959,-0.4509
+0,0,pretrain,0.299491,0.299491,0.0,0.0,0.0,0.0,0.0,9.1036,-0.3669
+0,20,pretrain,0.05962,0.05962,0.0,0.0,0.0,0.0,0.0,21.8384,0.9268
+0,40,pretrain,0.070466,0.070466,0.0,0.0,0.0,0.0,0.0,20.8089,0.9158
+0,60,pretrain,0.098944,0.098944,0.0,0.0,0.0,0.0,0.0,18.8608,0.9049
