@@ -15,4 +15,4 @@ cache/degradated_images/**
 
 cache/patches/**
 
-cache/training_outputs/**
+# cache/training_outputs/**

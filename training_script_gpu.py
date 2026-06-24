@@ -107,7 +107,7 @@ def create_required_directories() -> None:
 class TrainingConfig:
     """All hyperparameters and training settings in one place."""
     num_epochs: int = 100
-    batch_size: int = 16
+    batch_size: int = 2
     num_dataloader_workers: int = 4
     patches_per_epoch: int = 5000
     learning_rate_generator: float = 1e-4
